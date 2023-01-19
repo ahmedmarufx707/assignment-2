@@ -1,0 +1,163 @@
+.main {
+	margin: 25px 50px 50px 50px;
+	background-color: white;
+}
+
+
+.nav-bar {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: right;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
+
+h2 {
+	text-align: center;
+	color: #654;
+	font-family: sans-serif;
+	text-shadow: 2px 2px #111;
+	font-size: 40px;
+
+}
+
+h3 {
+	font-size: 30px;
+}
+
+h4 {
+	font-size: 36px;
+}
+
+p {
+	text-align: center;
+	font-size: 24px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 30px;
+}
+
+.place-button{
+	margin-right: 40%;
+	margin-left: 45%;
+	margin-bottom: 15px;
+}
+
+.button {
+	background-color: orange;
+	color: white;
+	border: 2px solid orange;
+	padding: 10px;
+}
+
+.button:hover{
+	background-color: white;
+	color: orange;
+}
+
+.seven-elements {
+	align-content: center;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.archons {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.a-image-box {
+	width: 50%;
+}
+
+.parent {
+	display: flex;
+	gap: 5px;
+}
+
+.a-para {
+	display: inline-block;
+}
+
+.space{
+	margin-top: 150px;
+	font-family: cursive; 
+}
+
+.archons-col {
+	display: inline-block;
+	width: 50%;
+	padding: .5rem;
+	box-sizing: border-box;
+	font-size: 25px;
+}
+
+.archons-col img {
+	width: calc(50% - 1.2rem);
+    margin: 0.5rem;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.feature-col {
+	width: 48%;
+	padding: .5rem;
+}
+
+.paragraph {
+	margin: 10px 10px 20px 10px;
+	text-align: justify;
+}
+
+.s-logo{
+	margin-left: 50px;
+	margin-right: 50px;
+	align-content: center;
+}
+
+.s-logo img{
+	margin: 55px 55px;
+}
+
+.sponsor {
+	text-align: center;
+	font-size: 24px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
